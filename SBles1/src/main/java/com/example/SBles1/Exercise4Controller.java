@@ -14,7 +14,7 @@ public class Exercise4Controller {
     private int autoId = 4;
     private List<Exercise4> employees = new ArrayList<>(
             Arrays.asList(
-                    new Exercise4( 1 , LocalDate.of(2001 , 12 , 04),"Nam", 10000000, "Hồ Trung"  ),
+                    new Exercise4( 1 , LocalDate.of(2004 , 10 , 30),"Nu", 10000000, "Xuan My"  ),
                     new Exercise4( 2 , LocalDate.of(2004 , 05 , 18) ,"Nữ", 20000000, "Ngọc Mai"  ),
                     new Exercise4( 3 , LocalDate.of(2004 , 04 , 13) ,"Nữ", 20000000, "Minh Anh"  )
             ));
